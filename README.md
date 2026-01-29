@@ -110,7 +110,7 @@ INFO Naman disconnected
 
 ## Screen Recording
 
-[Add your screen recording link here]
+[Video](https://drive.google.com/file/d/1we7odI4N8PXgegHwGcCbJBfEMj8Ui4y-/view?usp=sharing)
 
 ## Testing Locally
 
